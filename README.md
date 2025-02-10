@@ -14,5 +14,5 @@
 
 ## I am Harold Delory
 
-- Developper for TETRA
+- Developper for OpenItech
 - Love discover and learn new things ! 📖
