@@ -7,12 +7,14 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://app.daily.dev/pawn"><img src="https://github.com/Skilldron/skilldron/blob/main/devcard.png" width="256"
-      align="right"
-      alt="Harold's Dev Card"/></a>
-</div>
+  
 
 ## I am Harold Delory
 
 - Developper for OpenItech
 - Love discover and learn new things ! 📖
+
+  <a href="https://app.daily.dev/pawn"><img src="https://github.com/Skilldron/skilldron/blob/main/devcard.png" width="256"
+      align="right"
+      alt="Harold's Dev Card"/></a>
+</div>
